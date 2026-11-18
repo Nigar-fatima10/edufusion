@@ -1,0 +1,1 @@
+"""EduFusion backend application."""
